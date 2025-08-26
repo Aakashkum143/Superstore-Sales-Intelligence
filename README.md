@@ -1,4 +1,5 @@
-# 📊 Retail Performance Dashboard
+
+# 📊 Superstore Sales Intelligence Dashboard
 
 This Power BI dashboard project offers an interactive and insightful view into the sales performance of a fictional Global Superstore across categories, regions, and time.
 
@@ -28,7 +29,7 @@ The goal of this project is to provide business stakeholders with a high-level a
 ## 📥 How to Use
 
 1. Clone or download this repository
-2. Open `Retail_Performance_Dashboard.pbix` in Power BI Desktop
+2. Open `Superstore_Sales_Dashboard.pbix` in Power BI Desktop
 3. Refresh the dataset if prompted
 4. Explore the dashboard!
 
@@ -46,6 +47,7 @@ The goal of this project is to provide business stakeholders with a high-level a
 
 ## 📬 Contact
 
-For collaboration or queries:  
-Aakash Kumar  
-📧 [akashkumar68751@gmail.com]
+For collaboration or queries:
+Aakash Kumar
+📧 [akashkumar68751@gmail.com]  
+mujhe is project ka name change krna h to me kya dusra nam rakh skta hu
